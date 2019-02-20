@@ -11,6 +11,7 @@
 * "normalize.css": "7.0.0"
 * "react": "15.6.1"
 * "react-dom": "15.6.1"
+* "react-router-dom": "4.2.2"
 * "react-modal": "2.2.2"
 * "sass-loader": "6.0.6"
 * "style-loader": "0.18.2"
